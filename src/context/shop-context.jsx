@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, {createContext, useState } from 'react'
 import { PRODUCTS } from '../products';
 
